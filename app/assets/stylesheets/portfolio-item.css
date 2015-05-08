@@ -5,7 +5,7 @@
  */
 
 body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 70px; /
 }
 
 .portfolio-item {
@@ -22,14 +22,15 @@ footer {
 	float: right;
 }
 
-.contact {
-	padding: -50px;
-}
-
 .row {
-	padding: 0 0 -50px 0;
+	padding: 0 0 20px 0;
 }
+.contact-bikes {
+	margin: 0 auto;
 
-fb-comments {
-	padding: 220px 400px 20px 0;
+}
+.contact-portfolio {
+	text-align: center;
+	margin: 0 auto;
+	padding: 50px;
 }
